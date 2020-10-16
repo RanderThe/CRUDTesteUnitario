@@ -1,0 +1,12 @@
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\obj\Debug\CRUDTesteUnitario.csprojAssemblyReference.cache
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\obj\Debug\CRUDTesteUnitario.Form1.resources
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\obj\Debug\CRUDTesteUnitario.Properties.Resources.resources
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\obj\Debug\CRUDTesteUnitario.csproj.GenerateResource.cache
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\bin\Debug\CRUDTesteUnitario.exe.config
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\bin\Debug\CRUDTesteUnitario.exe
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\bin\Debug\CRUDTesteUnitario.pdb
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\obj\Debug\CRUDTesteUnitario.csproj.CopyComplete
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\obj\Debug\CRUDTesteUnitario.exe
+C:\Users\rander.leal\source\repos\CRUDTesteUnitario\CRUDTesteUnitario\obj\Debug\CRUDTesteUnitario.pdb
